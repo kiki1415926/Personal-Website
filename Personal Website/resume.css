@@ -1,0 +1,14 @@
+.body {
+    background: #ccc;
+}
+
+.pdf {
+    vertical-align: middle;
+    border-style: none;
+    background-color: antiquewhite;
+}
+
+#resume {
+    padding: inherit;
+    text-align: center;
+}
