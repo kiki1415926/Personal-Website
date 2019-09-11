@@ -254,7 +254,17 @@ p {
     text-align: center;
 }
 
-#normalword{
+#CSC384 {
+    padding: inherit;
+    text-align: center;
+}
+
+#CrowdMarkDownload {
+    padding: inherit;
+    text-align: center;
+}
+
+.sentences{
     display: block;
     margin-block-start: 1em;
     margin-block-end: 1em;
@@ -264,7 +274,7 @@ p {
     font-size: 20px;
 }
 
-#sourcecode{
+.source{
     display: block;
     margin-block-start: 1em;
     margin-block-end: 1em;
@@ -273,4 +283,5 @@ p {
     color: black;
     font-size: 20px;
 }
+
 
